@@ -1,3 +1,2 @@
 - 👋 Hi, I’m zntsproj
-- 👀 I’m interested in Kernel Development 
-- 🌱 I’m currently learning C
+- 💔 I don't have a personal life
